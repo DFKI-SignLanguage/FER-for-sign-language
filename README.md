@@ -6,7 +6,7 @@ With this code we investigate the capability of convolutional neural networks to
 
 ## Reference
 
-This code is associated with the following publication 
+This code is associated with the SLTAT2022 publication: https://aclanthology.org/2022.sltat-1.5/
 
 ```
 @inproceedings{deshpande-etal-2022-fine,
